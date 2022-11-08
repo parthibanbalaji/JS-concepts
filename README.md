@@ -1,20 +1,16 @@
-# polyfills
+# JS CONCEPTS
 
-This repository will have the polyfills for some of the JS methods
+This repository will have the example/ Implementation of JS concepts to have better understanding.
 
 Planning to add polyfills 
 
-# Promise
+# Polyfills
 
 Promise
-Promise.all
-Promise.allSettled
+Function
 
-# Function
-
-Bind 
-call 
-apply
-
+# Concepts
+Currying
+.
 
 
